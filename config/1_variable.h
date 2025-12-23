@@ -1,6 +1,9 @@
 #include <Wire.h>
 #include <EEPROMex.h>
 #define buzzerPin A1
+// defining apasaja import yang dibutuhkan
+
+
 
 float calA[7], calB[7], calC[7];
 float ALPHA[7], BETA[7], GAMA[7];

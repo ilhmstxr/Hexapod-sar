@@ -1,5 +1,4 @@
-
-#include "1_Variable.h"
+#include "config/1_Variable.h"
 
 int runSt = 0;
 byte printSt = 1;
